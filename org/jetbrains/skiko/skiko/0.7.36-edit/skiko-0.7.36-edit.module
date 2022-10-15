@@ -26,10 +26,10 @@
           "name": "skiko-metadata-0.7.36-edit-all.jar",
           "url": "skiko-0.7.36-edit-all.jar",
           "size": 647,
-          "sha512": "87e73aa8e400554c6c6f1784487088b3a9d4d1aca783d6b5db720cf3882e32e9f72f1e1a1c6da688fec3e18756bdf1f467c645e5d05a1cc5904900e865b93d18",
-          "sha256": "f2da62ea72104d2471ca1f25fb38a175cfa340888867a8b457138e24f7c1874e",
-          "sha1": "d17177297e067124fa4de28526f5448ca0d0cc2a",
-          "md5": "85c3104c88bf3ed42be913e75db0bb67"
+          "sha512": "693493dce813ff313ac62f3b54ddc85d6766ca14214c13b1e46305b321e4556b56a09b69ffe43962c57ce258703c43f9c4865fbd740c5bc26389884de6e1c0fe",
+          "sha256": "87be0205fdf415219cb543f974bd16766f5f2c1f24e40636011c104281269951",
+          "sha1": "88b9bfc383946048b34d75c8fe45e05d5e7775a7",
+          "md5": "7f00abcefc4720f9f76e8ece83654bfd"
         }
       ]
     },
@@ -45,10 +45,10 @@
           "name": "skiko-0.7.36-edit.jar",
           "url": "skiko-0.7.36-edit.jar",
           "size": 191812,
-          "sha512": "97e8d6bb85796b8fac4720e4284ea70ede2fdc881f3d1b64abfe2f86d2d75765784f052571aab83bffa1f5b841700638763a4632c6b26d327470a03eda2426b8",
-          "sha256": "bf768c4236238d407f9a947e945cdd2b98664b079058f550791aaeb80b69f8b7",
-          "sha1": "b55dd724f2ca875ce6f8963f0e42d1c1649c80cd",
-          "md5": "a2bc5373c5bd7fdb81b97dd32885f38a"
+          "sha512": "4c2573ec53212a9c16d72ba00c1eda3289700cdc88f0e9d8a16e68ed58ea05bebbc07d9d651fcd73aea7b6f63bf5da230a3bf99dc4249454e9c3cb7caeafe402",
+          "sha256": "aa9510744a734622132591611598da84c43ce096e63aa7d96c3892ffc4239064",
+          "sha1": "e9cf040d05d3bf633921ce3d9625b54a793f30a7",
+          "md5": "e747e421c6e8bca26d43a358c7b3c89f"
         }
       ]
     },
