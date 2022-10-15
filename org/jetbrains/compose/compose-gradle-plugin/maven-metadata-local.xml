@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jetbrains.compose</groupId>
+  <artifactId>compose-gradle-plugin</artifactId>
+  <versioning>
+    <latest>1.2.0-edit</latest>
+    <release>1.2.0-edit</release>
+    <versions>
+      <version>1.2.0-edit</version>
+    </versions>
+    <lastUpdated>20221015070003</lastUpdated>
+  </versioning>
+</metadata>
