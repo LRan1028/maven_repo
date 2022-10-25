@@ -36,11 +36,11 @@
         {
           "name": "skiko-awt-0.7.36-edit.jar",
           "url": "skiko-awt-0.7.36-edit.jar",
-          "size": 1140800,
-          "sha512": "f570384d4f7bdc0a0f3b25dbfd6946b6ebce7f1ce79f93fe90fea6dac3424f9b41352fb61d40bf75349401343556ad86f8c90507ed1b7b0b536ba1b58a648c46",
-          "sha256": "49c781b853def8f896b33fed47010b5b5656756752ca232fc8fb1a433083a0b8",
-          "sha1": "a40debaaac45a99a14d0c8ed95f65dce85afcf45",
-          "md5": "14c2f1f85558815965a6b1e656977f0a"
+          "size": 1141274,
+          "sha512": "a79559639220beb8f9647600aeeabc2feee5e09c0748ca004a89a529dfd6eb3714f4d645d1020fb6c43399428279abc1037cc2bfbb27042deb7a2a3ca3741b15",
+          "sha256": "219446ded2dd35fe301d39c92c0f847472bfecab80546ffe0e57e79904d59488",
+          "sha1": "c81147d225e4138c504772112fe48437a6693a05",
+          "md5": "1d16bcdc336bd33a0f2228774773b63b"
         }
       ]
     },
@@ -69,14 +69,14 @@
         },
         {
           "group": "org.jetbrains.kotlinx",
-          "module": "kotlinx-coroutines-core",
+          "module": "kotlinx-coroutines-core-jvm",
           "version": {
             "requires": "1.5.2"
           }
         },
         {
           "group": "org.jetbrains.kotlinx",
-          "module": "kotlinx-coroutines-core-jvm",
+          "module": "kotlinx-coroutines-core",
           "version": {
             "requires": "1.5.2"
           }
@@ -86,11 +86,11 @@
         {
           "name": "skiko-awt-0.7.36-edit.jar",
           "url": "skiko-awt-0.7.36-edit.jar",
-          "size": 1140800,
-          "sha512": "f570384d4f7bdc0a0f3b25dbfd6946b6ebce7f1ce79f93fe90fea6dac3424f9b41352fb61d40bf75349401343556ad86f8c90507ed1b7b0b536ba1b58a648c46",
-          "sha256": "49c781b853def8f896b33fed47010b5b5656756752ca232fc8fb1a433083a0b8",
-          "sha1": "a40debaaac45a99a14d0c8ed95f65dce85afcf45",
-          "md5": "14c2f1f85558815965a6b1e656977f0a"
+          "size": 1141274,
+          "sha512": "a79559639220beb8f9647600aeeabc2feee5e09c0748ca004a89a529dfd6eb3714f4d645d1020fb6c43399428279abc1037cc2bfbb27042deb7a2a3ca3741b15",
+          "sha256": "219446ded2dd35fe301d39c92c0f847472bfecab80546ffe0e57e79904d59488",
+          "sha1": "c81147d225e4138c504772112fe48437a6693a05",
+          "md5": "1d16bcdc336bd33a0f2228774773b63b"
         }
       ]
     }
