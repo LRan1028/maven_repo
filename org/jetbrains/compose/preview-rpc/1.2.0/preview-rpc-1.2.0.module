@@ -3,7 +3,7 @@
   "component": {
     "group": "org.jetbrains.compose",
     "module": "preview-rpc",
-    "version": "1.2.0-edit1",
+    "version": "1.2.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "preview-rpc-1.2.0-edit1.jar",
-          "url": "preview-rpc-1.2.0-edit1.jar",
+          "name": "preview-rpc-1.2.0.jar",
+          "url": "preview-rpc-1.2.0.jar",
           "size": 126833,
-          "sha512": "b85e47877073a7af006ec51867dd54ad2a27cb719f3f7f8a7566e18dd2317a01ece74a9b33822485626be1ef97299840b32a6cb37679328c0342d44ba03d7ec9",
-          "sha256": "f12481b2773f8c1988cf508be747329eae581b25d72e3eb94d0393fce25c2f25",
-          "sha1": "228796a19151208ca2c902d7b09cfe3b09302978",
-          "md5": "1f9d2b5098e624447953f4bc88f354a7"
+          "sha512": "ebbff2d006c2dd77c1840820c3d8792ddca4130dcbf749c7963c10293cfcf3db28bb803aaef267e54bdc7ad64d8c46e08b4afd235d16a43b73acd8d326d0b899",
+          "sha256": "ebaa8ca88e203ad5aa9f1c742d66c3cb9758d35dbf5aab87f3d7805264029aae",
+          "sha1": "395e8fd308d2439d54192fc8041411b930b3aaf1",
+          "md5": "2ca02013e0cec42b6a19401517f47e6f"
         }
       ]
     },
@@ -59,13 +59,13 @@
       ],
       "files": [
         {
-          "name": "preview-rpc-1.2.0-edit1.jar",
-          "url": "preview-rpc-1.2.0-edit1.jar",
+          "name": "preview-rpc-1.2.0.jar",
+          "url": "preview-rpc-1.2.0.jar",
           "size": 126833,
-          "sha512": "b85e47877073a7af006ec51867dd54ad2a27cb719f3f7f8a7566e18dd2317a01ece74a9b33822485626be1ef97299840b32a6cb37679328c0342d44ba03d7ec9",
-          "sha256": "f12481b2773f8c1988cf508be747329eae581b25d72e3eb94d0393fce25c2f25",
-          "sha1": "228796a19151208ca2c902d7b09cfe3b09302978",
-          "md5": "1f9d2b5098e624447953f4bc88f354a7"
+          "sha512": "ebbff2d006c2dd77c1840820c3d8792ddca4130dcbf749c7963c10293cfcf3db28bb803aaef267e54bdc7ad64d8c46e08b4afd235d16a43b73acd8d326d0b899",
+          "sha256": "ebaa8ca88e203ad5aa9f1c742d66c3cb9758d35dbf5aab87f3d7805264029aae",
+          "sha1": "395e8fd308d2439d54192fc8041411b930b3aaf1",
+          "md5": "2ca02013e0cec42b6a19401517f47e6f"
         }
       ]
     },
@@ -79,13 +79,13 @@
       },
       "files": [
         {
-          "name": "preview-rpc-1.2.0-edit1-javadoc.jar",
-          "url": "preview-rpc-1.2.0-edit1-javadoc.jar",
+          "name": "preview-rpc-1.2.0-javadoc.jar",
+          "url": "preview-rpc-1.2.0-javadoc.jar",
           "size": 261,
-          "sha512": "661e5e0c176e8d8c8492af2cffde7ab091acf6acff316a2a608731a10d5ce0d02e2361d24fcec8df3b02ecabd849094e42b70d43114c5e767b8b4aa6ac014d98",
-          "sha256": "106029b0bc1d80d2dc5b175b15fe280dd4497b0bb63ad7ab96c0428d63fe2b62",
-          "sha1": "9cedd2529d37dffc5737eb6b1774faf00b01e574",
-          "md5": "1282f6e2a88393cabf945a2f93e889da"
+          "sha512": "dd951ab1768dc75f4499950bbe2bc85b33ac32382dfcedb8b14aa1ee89516d5ba2e554eec32af0dfa9f4342d3d18c47602f5e55904b186bff7ade4dc7586403d",
+          "sha256": "4e83db3c86436bb568c0e9c4c0fdb8a46882a9f7e1ee4aeaf04a691d193a972c",
+          "sha1": "123700ebc92eaab341840110f4dde4627f7b6932",
+          "md5": "b674fe041c6c95b9b9c41f38e53b5385"
         }
       ]
     },
@@ -99,13 +99,13 @@
       },
       "files": [
         {
-          "name": "preview-rpc-1.2.0-edit1-sources.jar",
-          "url": "preview-rpc-1.2.0-edit1-sources.jar",
+          "name": "preview-rpc-1.2.0-sources.jar",
+          "url": "preview-rpc-1.2.0-sources.jar",
           "size": 17324,
-          "sha512": "bc845043eea5cf8bbd094e01d9a8b93ebe3fd4f0131a984df414a7fe75fedb2a9b5bdddb91ca3d62bf8e32d5570b0941d139772e650371dbcec8a41dd7d0607a",
-          "sha256": "29e635d2e8e5ef3a0bcf6423790e28c8cbed3d4820d89d9ac3c7caa2cd11c8d6",
-          "sha1": "73b4311134ed1a98886f2c30d2f9366382d8b33b",
-          "md5": "cc30762d3ac377f95d84775325c90876"
+          "sha512": "ae8c21372bee9f5bbcb1c0e86b323726e38931f7350d95b4013e73e65daf6fe90548498cee192c6de8c1e13559efe4136faaedc0c83d14610bd4c23f334f93b9",
+          "sha256": "d5c80b8682240ac9d88594d1a17051b11d94acf2171ba97c1ead42667fe05bfe",
+          "sha1": "03d75897968e503feca708419ae10b4e7fad64e5",
+          "md5": "818e83f85eb1c9683aad216433951630"
         }
       ]
     }
