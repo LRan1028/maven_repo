@@ -1,0 +1,142 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.jetbrains.compose",
+    "module": "compose-gradle-plugin",
+    "version": "1.2.0-edit1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "compose-gradle-plugin-1.2.0-edit1.jar",
+          "url": "compose-gradle-plugin-1.2.0-edit1.jar",
+          "size": 4463449,
+          "sha512": "97350ccd9110c32326289f80981253e53869f788a906984e4544b9ef06ff32a807f15fe12f28b181d2f0d1d89505747fd906bba02ad4a4ad0c7cfbbac30a1efb",
+          "sha256": "95648a2636ece79b311e82fac2fd269054de91f6581b2295793d43336d95904f",
+          "sha1": "06c75e42f078d557671401222e73d944a2764e7f",
+          "md5": "00c2e114d2cec147f3fcc7bc1155bba0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "compose-gradle-plugin-1.2.0-edit1.jar",
+          "url": "compose-gradle-plugin-1.2.0-edit1.jar",
+          "size": 4463449,
+          "sha512": "97350ccd9110c32326289f80981253e53869f788a906984e4544b9ef06ff32a807f15fe12f28b181d2f0d1d89505747fd906bba02ad4a4ad0c7cfbbac30a1efb",
+          "sha256": "95648a2636ece79b311e82fac2fd269054de91f6581b2295793d43336d95904f",
+          "sha1": "06c75e42f078d557671401222e73d944a2764e7f",
+          "md5": "00c2e114d2cec147f3fcc7bc1155bba0"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "compose-gradle-plugin-1.2.0-edit1-javadoc.jar",
+          "url": "compose-gradle-plugin-1.2.0-edit1-javadoc.jar",
+          "size": 261,
+          "sha512": "dd3fdc877a3229d6d77a12b418c5bbf28aea0fb327e2e14b14a8019f07911dcf636914e746f077d814de94dfda6f405d6e72447734e41fa9deaab31e6fdd816b",
+          "sha256": "d2b7fa3a82d6f527cc6b87b74018296d779da0ed25a8fc5ca68aa1f22b2715bb",
+          "sha1": "f7e8efd3e5c8b39634fc353555bc8922af7f16b4",
+          "md5": "2ff856a9db5eae1ced4f1411f7dfe0ee"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "compose-gradle-plugin-1.2.0-edit1-sources.jar",
+          "url": "compose-gradle-plugin-1.2.0-edit1-sources.jar",
+          "size": 614897,
+          "sha512": "e2ac19b19c32ef2d3924a5d4b150c51bace688d9e1643fb7d785fc9a2de2a4f51947375eed76be4d95d32ebccdc2d1a91bef500a5bf1d853f344246cd6e0794f",
+          "sha256": "a313eb8b11a1e813dbf0c4165e613fec3b7f2c82486f0c218496a03aa62f6fa3",
+          "sha1": "7aa9715a19fa98c44e57e99538d7aa507110b9b9",
+          "md5": "aebb7d45d7472815702d12be5ec079f1"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "compose-gradle-plugin-1.2.0-edit1-shadow.jar",
+          "url": "compose-gradle-plugin-1.2.0-edit1-shadow.jar",
+          "size": 3328598,
+          "sha512": "b6b97e40197e179c4ea586bc89deb30964d72264dec814124832ab8227e7591679efe29b84447c05ca9fd0f474094fcad25f7bb09c16aacec0f3d95503743730",
+          "sha256": "b669e00613b667e0ec82168210608adec40fb637ac87f0f3dc61ef5ad1453474",
+          "sha1": "ed636027bf79c1de755483462c4d35e0d0b1e5b4",
+          "md5": "a13a9f4e280b4b2f71c548ad8c3e418c"
+        }
+      ]
+    }
+  ]
+}
