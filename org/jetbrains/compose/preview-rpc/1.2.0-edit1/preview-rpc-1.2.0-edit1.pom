@@ -8,7 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jetbrains.compose</groupId>
   <artifactId>preview-rpc</artifactId>
-  <version>1.2.0-edit</version>
+  <version>1.2.0-edit1</version>
   <name>Compose Preview RPC</name>
   <description>Compose Preview RPC</description>
   <url>https://www.jetbrains.com/lp/compose/</url>
