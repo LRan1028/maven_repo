@@ -1,0 +1,94 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "me.yuugiri.fluiditygradle",
+    "module": "FluidityGradle",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "FluidityGradle-1.0.0.jar",
+          "url": "FluidityGradle-1.0.0.jar",
+          "size": 88118,
+          "sha512": "7c1332ec05b0769df5c5b8984634b1aee216b3bb48b573ee6bad25cf81a3e3fb4b01024c5c7e0efc92edba1c997bf2a56a6856c6aacc7599b0bf4946ddbcf33e",
+          "sha256": "4aa7ae98195e1065e7ae15b65be755cd218307dd047f175caa66347450bcf721",
+          "sha1": "cb9ebff634a979b2f438fd63f4d74f7827981502",
+          "md5": "e31b583c1f6b93e74b529da4ac76a8dc"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.7.20"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-tree",
+          "version": {
+            "requires": "9.4"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.2.4"
+          }
+        },
+        {
+          "group": "net.md-5",
+          "module": "SpecialSource",
+          "version": {
+            "requires": "1.11.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "FluidityGradle-1.0.0.jar",
+          "url": "FluidityGradle-1.0.0.jar",
+          "size": 88118,
+          "sha512": "7c1332ec05b0769df5c5b8984634b1aee216b3bb48b573ee6bad25cf81a3e3fb4b01024c5c7e0efc92edba1c997bf2a56a6856c6aacc7599b0bf4946ddbcf33e",
+          "sha256": "4aa7ae98195e1065e7ae15b65be755cd218307dd047f175caa66347450bcf721",
+          "sha1": "cb9ebff634a979b2f438fd63f4d74f7827981502",
+          "md5": "e31b583c1f6b93e74b529da4ac76a8dc"
+        }
+      ]
+    }
+  ]
+}

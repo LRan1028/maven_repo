@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.material.color",
+    "module": "material-color-utilities",
+    "version": "0.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "material-color-utilities-0.2.0.jar",
+          "url": "material-color-utilities-0.2.0.jar",
+          "size": 50516,
+          "sha512": "32f76cdb9a901d312a647190523072a0cb29c576e7ccc80d926e3cd3ea735b164241c2d799f1739592d1610b994ef20ce05439a6a5114124689bfe61ffdab3d0",
+          "sha256": "700ea83207604894c75f402259a368ebff9406d27eeca17cd4d2d0b03950e963",
+          "sha1": "63f8f8730c113c2f786a36c27baa20b57a25effc",
+          "md5": "08ec2d153e26ee0453e762cc91723a0f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "material-color-utilities-0.2.0.jar",
+          "url": "material-color-utilities-0.2.0.jar",
+          "size": 50516,
+          "sha512": "32f76cdb9a901d312a647190523072a0cb29c576e7ccc80d926e3cd3ea735b164241c2d799f1739592d1610b994ef20ce05439a6a5114124689bfe61ffdab3d0",
+          "sha256": "700ea83207604894c75f402259a368ebff9406d27eeca17cd4d2d0b03950e963",
+          "sha1": "63f8f8730c113c2f786a36c27baa20b57a25effc",
+          "md5": "08ec2d153e26ee0453e762cc91723a0f"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "me.yuugiri.hutil",
+    "module": "hook-utility",
+    "version": "792e21c",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hook-utility-792e21c.jar",
+          "url": "hook-utility-792e21c.jar",
+          "size": 73729,
+          "sha512": "b958e7d50484be53f5c09d6cfd95dd21f37b30b1d5eefda72527ffdd783830a21c8123b347aa56da0930878ff38c8c7f5c16f80861b3b5ec85220b981a64d372",
+          "sha256": "a7a3cdb068634a3589eeb04ab22887132d43b1e5d2ff2c6920c2eb2758ac9611",
+          "sha1": "01fa60c5cde3187b388342d0ea4c37d290e66094",
+          "md5": "f97b54ac16acc25e8c14bcdf1fa4dd92"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-all",
+          "version": {
+            "requires": "5.0.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hook-utility-792e21c.jar",
+          "url": "hook-utility-792e21c.jar",
+          "size": 73729,
+          "sha512": "b958e7d50484be53f5c09d6cfd95dd21f37b30b1d5eefda72527ffdd783830a21c8123b347aa56da0930878ff38c8c7f5c16f80861b3b5ec85220b981a64d372",
+          "sha256": "a7a3cdb068634a3589eeb04ab22887132d43b1e5d2ff2c6920c2eb2758ac9611",
+          "sha1": "01fa60c5cde3187b388342d0ea4c37d290e66094",
+          "md5": "f97b54ac16acc25e8c14bcdf1fa4dd92"
+        }
+      ]
+    }
+  ]
+}
