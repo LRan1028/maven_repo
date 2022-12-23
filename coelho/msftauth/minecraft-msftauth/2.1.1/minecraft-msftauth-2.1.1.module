@@ -1,0 +1,77 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "coelho.msftauth",
+    "module": "minecraft-msftauth",
+    "version": "2.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "kvub3vlr3ndevad6k27oly2xji"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "minecraft-msftauth-2.1.1.jar",
+          "url": "minecraft-msftauth-2.1.1.jar",
+          "size": 74103,
+          "sha512": "779c75542b05b2ca7141d34f471e43b848c263c5899e4403237f42f3941a67e579f63b9df8faf1056a465af064dea5ebb875aab568a44ac53989e3826ff6d063",
+          "sha256": "8d4608b63c79b304db7ffc69eb4d82ce895090b1b89f2322c8ba88e531912d7b",
+          "sha1": "075107a75e4b644ea0b39813dc1dd865b96e79a0",
+          "md5": "af128e1daf4d96300ee3ba146920b5a6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10"
+          }
+        },
+        {
+          "group": "com.nimbusds",
+          "module": "nimbus-jose-jwt",
+          "version": {
+            "requires": "9.13"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "minecraft-msftauth-2.1.1.jar",
+          "url": "minecraft-msftauth-2.1.1.jar",
+          "size": 74103,
+          "sha512": "779c75542b05b2ca7141d34f471e43b848c263c5899e4403237f42f3941a67e579f63b9df8faf1056a465af064dea5ebb875aab568a44ac53989e3826ff6d063",
+          "sha256": "8d4608b63c79b304db7ffc69eb4d82ce895090b1b89f2322c8ba88e531912d7b",
+          "sha1": "075107a75e4b644ea0b39813dc1dd865b96e79a0",
+          "md5": "af128e1daf4d96300ee3ba146920b5a6"
+        }
+      ]
+    }
+  ]
+}
