@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.sora.networking",
+    "module": "libmitm",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libmitm-1.1.0.aar",
+          "url": "libmitm-1.1.0.aar",
+          "size": 6635233,
+          "sha512": "916bb51dbb45e1244b1384aa9e263ce94d1da38b7c8f983ec4ccfcf6a9189607a345449f61e9739866243cca52f1f45e32c2fc1d0d531e29f449a22219ccfadf",
+          "sha256": "b558a22acd23dee6d5b71ee3cf4fe05a65727829baa9561d367b3fd884d6293e",
+          "sha1": "34b5f7d0e577f9d7ceb2751c5a42631af3bb97dd",
+          "md5": "e45a1390aec1f365723bc77e6310de7e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [],
+      "dependencyConstraints": [],
+      "files": [
+        {
+          "name": "libmitm-1.1.0.aar",
+          "url": "libmitm-1.1.0.aar",
+          "size": 6635233,
+          "sha512": "916bb51dbb45e1244b1384aa9e263ce94d1da38b7c8f983ec4ccfcf6a9189607a345449f61e9739866243cca52f1f45e32c2fc1d0d531e29f449a22219ccfadf",
+          "sha256": "b558a22acd23dee6d5b71ee3cf4fe05a65727829baa9561d367b3fd884d6293e",
+          "sha1": "34b5f7d0e577f9d7ceb2751c5a42631af3bb97dd",
+          "md5": "e45a1390aec1f365723bc77e6310de7e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libmitm-1.1.0-sources.jar",
+          "url": "libmitm-1.1.0-sources.jar",
+          "size": 7885,
+          "sha512": "e83c2355fd115a1a3efd6cf061d4292fb01e45135ac3797a4cc21d77d36d85afea4ec5fbd7ef6d190b94a442a56898a30c67d89a365ced3384942315e281df32",
+          "sha256": "4a146ecd859d5327183ba7a76de06e187914f45e4ea7ce34eb5076e795442cc7",
+          "sha1": "2239af6404e96a5f88393b61e4a408f7c8dfd37f",
+          "md5": "69723ff0632631bee4909804e4cc107f"
+        }
+      ]
+    }
+  ]
+}
